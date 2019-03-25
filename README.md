@@ -1,4 +1,4 @@
-# Airline-reservations-system-Database
+# Airline-reservations-system-Database (PL language version)
 
 The project was a part of Database management system course at UTP and touched upon Airline reservations system. 
 The project consisted of three major points: 
